@@ -238,4 +238,6 @@ BUILD/K66F/GCC_ARM/main.o: main.cpp BUILD/K66F/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os-build/platform/Callback.h \
  /home/ee2405/ee2405/mbed-os-build/platform/FunctionPointer.h \
  /home/ee2405/ee2405/mbed-os-build/platform/ScopedLock.h bbcar.h \
- parallax_servo.h parallax_encoder.h parallax_ping.h
+ parallax_servo.h parallax_encoder.h parallax_ping.h \
+ /home/ee2405/ee2405/mbed-os-build/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_port.h \
+ /home/ee2405/ee2405/mbed-os-build/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_gpio.h
